@@ -1,0 +1,13 @@
+.top{
+	width: 7.5rem;
+	margin: 0 auto;
+}
+.top_plate{
+	width: 100%;
+	height: 1.28rem;
+	background: #ef3939;
+	text-align: center;
+	line-height: 1.28rem;
+	color: #fff;
+	font-size: .36rem;
+}

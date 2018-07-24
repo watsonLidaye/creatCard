@@ -1,0 +1,30 @@
+.tabbar{
+	width: 100%;
+	height: .96rem;
+	position: fixed;
+	bottom: 0;
+	left: 0;
+	z-index: 100;
+	background: #fff;
+}
+.tabbar_item{
+	width: 50%;
+	height: 100%;
+	font-size: .22rem;
+	text-align: center;
+}
+.w32h32{
+	width: .32rem;
+	height: .32rem;
+}
+.w34h34{
+	width: .34rem;
+	height: .34rem;
+}
+.tabbar_item div{
+	margin-top: .1rem;
+}
+
+.tabact{
+	color: #ef3939;
+}

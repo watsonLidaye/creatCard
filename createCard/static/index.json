@@ -1,0 +1,36 @@
+{
+	"index": {
+		"card": [{
+			"title": "优质大核桃特级品种",
+			"cost": 50,
+			"price": 60,
+			"real_cost": 36,
+			"sale": 4324
+		}, {
+			"title": "优质大核桃特级品种",
+			"cost": 50,
+			"price": 60,
+			"real_cost": 36,
+			"sale": 4324
+		}, {
+			"title": "优质大核桃特级品种",
+			"cost": 50,
+			"price": 60,
+			"real_cost": 36,
+			"sale": 4324
+		}],
+		"enter": [{
+			"title": "水上乐园票",
+			"img": "@/assets/image/09.png",
+			"cost": 30
+		}, {
+			"title": "水上乐园票",
+			"img": "@/assets/image/09.png",
+			"cost": 30
+		}, {
+			"title": "水上乐园票",
+			"img": "@/assets/image/09.png",
+			"cost": 30
+		}]
+	}
+}
